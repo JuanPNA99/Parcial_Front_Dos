@@ -1,0 +1,10 @@
+.card{
+    border: solid;
+    border-color: black;
+    border-radius: 2%;
+    background-color: #6b6b6b;
+}
+
+.card:hover{
+    filter: brightness(105%);
+}
